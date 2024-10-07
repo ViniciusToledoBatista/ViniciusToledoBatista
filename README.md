@@ -27,4 +27,4 @@ Estou sempre aberto a aprender e colaborar. Se você tem ideias, projetos ou ape
 
 - [LinkedIn](https://www.linkedin.com/in/vinicius-toledo-736442253/)
 
-Obrigado por visitar meu perfil! Let's Code! 🚀
+Obrigado por visitar meu perfil! Let's Codar! 🚀

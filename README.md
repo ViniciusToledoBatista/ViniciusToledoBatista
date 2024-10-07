@@ -1,4 +1,4 @@
-# Hello, Friend! 🌟
+# Hello, World!
 
 🔄 **Dev em transição de carreira**
 

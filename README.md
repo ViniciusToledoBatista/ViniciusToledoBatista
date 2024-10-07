@@ -1,6 +1,6 @@
 # Hello, Friend! 🌟
 
-🔄 **Dev. em transição de carreira**
+🔄 **Dev em transição de carreira**
 
 Depois de uma década como nutricionista e gestor em negócios de alimentação, decidi que era hora de nutrir novas habilidades e mergulhar no universo da programação.
 

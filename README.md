@@ -6,9 +6,12 @@ Desenvolvedor de Sistemas em Transição de Carreira com sólida experiência em
 
 ## 💻 Projetos & Experiência em Tecnologia
 
-•	Participação ativa em bootcamps e desafios de código, focando no aprimoramento contínuo das habilidades em programação e resolução de problemas. 
+•	Participação ativa em bootcamps e desafios de código, focando no aprimoramento contínuo das habilidades em programação e resolução de problemas.
+
 •	Envolvimento em challenges da FIAP, solucionando problemas reais de empresas parceiras, aplicando conceitos de desenvolvimento de software e metodologias ágeis. 
+
 •	Desenvolvimento de projetos acadêmicos e experimentais, com ênfase em Java, modelagem de dados e desenvolvimento web, buscando sempre aprofundar conhecimentos técnicos. 
+
 •	Contribuições para repositórios no GitHub, praticando versionamento de código e colaboração em equipe, reforçando habilidades de trabalho em grupo e boas práticas de desenvolvimento.
 
 

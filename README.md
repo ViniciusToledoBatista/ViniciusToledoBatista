@@ -23,7 +23,7 @@
 - 🌐 **Node.js, Bootstrap**  
 - 💾 **Oracle, Modelagem de Dados (Oracle Data Modeler)**  
 - 🔧 **Git, GitHub**  
-- 📋 **Scrum, Kanban, Agile Coaching**  
+- 📋 **Scrum, Kanban, Métodologia Ágil**  
 - 💡 **Resolução de problemas, Trabalho em equipe, Comunicação técnica**
 
 ---
